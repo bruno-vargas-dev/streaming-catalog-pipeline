@@ -1,4 +1,4 @@
-# Proofpoint Technical Challenge - The Streaming Service’s Lost Episodes
+# Technical Challenge - The Streaming Service’s Lost Episodes
 
 This repository contains the solution for the Streaming Service Data Cleaning challenge. The pipeline processes a raw catalog of TV series episodes, standardizes formats, validates business rules, removes duplicates based on a quality hierarchy, and generates a clean dataset alongside a quality report.
 
